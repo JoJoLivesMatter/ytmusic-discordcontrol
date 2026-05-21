@@ -21,7 +21,7 @@ Enable the plugin, then configure:
 
 ### 2. Install BetterDiscord plugin
 
-* Copy `YouTubeMusicEnhance.plugin.js`
+* Copy `YouTubeMusicEnhance.plugin.js` [Download](https://github.com/JoJoLivesMatter/ytmusic-discordcontrol/releases/)
 * Paste it into:
 
 ```text id="p1v8cn"
