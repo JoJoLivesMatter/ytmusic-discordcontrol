@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/screen.png" width="700"/>
+</p>
+
 ## 🍐 Setup Pear Desktop + Discord
 
 ### 1. Enable API Server in Pear Desktop
